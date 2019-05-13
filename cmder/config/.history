@@ -1,0 +1,447 @@
+ping 112.5.71.168
+e:
+e:
+`
+e:
+`
+e:
+cd qxz/vue
+cd tams
+cd teams
+cd por
+cd chen
+ls
+npm install ajv-keywords@3.2.0
+npm i ajv
+npm i ajv -g
+node -V
+node -v
+npm -v
+node -v
+npm -v
+node -v
+node -v
+npm i fast-copy -g
+vue-grid-layout
+npm i vue-grid-layout -g
+npm i vue-infinite-loading -g
+npm i vue2-perfect-scrollbar -g
+e:
+cd qxz/vue/teams
+ls
+cd por
+cd chen
+npm install --save fast-copy vue-grid-layout
+npm audit fix
+npm audit
+npm install ajv@^6.0.0
+npm install @babel/core@^7.0.0
+npm install --save vue-infinite-loading vue2-perfect-scrollbar vue2-perfect-scrollbar/dist/vue2-perfect-scrollbar.css
+npm install fast-copy -g
+node -v
+npm -v
+e:
+cd qxz/vue/teams
+ls
+cd portal_pc
+npm run serve
+node -v
+ipconfig /all
+ls
+cd portal_pc
+npm run serve
+node -v
+ipconfig
+ipconfig -a
+ipconfig /all
+arp -all
+arp -a
+ipconfig /all
+ftp
+cd portal_pc
+node -v
+ipconfig
+ipconfig -a
+ipconfig /all
+arp -all
+arp -a
+ipconfig /all
+ftp
+e:
+cd qxz
+cd vue/2019
+cd portal
+
+npm install
+pm install ajv@^6.0.0
+npm install ajv@^6.0.0
+npm install @babel/core@^7.0.0
+npm install eslint
+npm install eslint-loader
+npmrun serve
+npm run lint
+ls
+npm run serve
+arp -a
+ipconfig /all
+ftp
+e:
+cd qxz
+cd vue/2019/
+cd portal
+ls
+npm run lint
+npm run lint
+e:
+cd qxz/vue/2019
+cd p2
+ls
+npm run serve
+cd qxz/vue/2019
+npm run serve
+e;
+e:
+cd qxz
+cd vue/2019
+cd p2
+ls
+npm install v-distpicker --save
+arp -a
+ipconfig -a
+ipconfig /all
+npm install v-distpicker --save
+e:
+cd qxz
+cd 2019
+cd vue/2019
+cd p2
+npm run serve
+npm run serve
+cd qxz/vue/2019
+npm run serve
+e;
+e:
+cd qxz
+cd vue/2019
+cd p2
+ls
+npm install v-distpicker --save
+arp -a
+ipconfig -a
+ipconfig /all
+npm install v-distpicker --save
+cd vue/2019
+e:
+cd qxz
+cd vue
+cd 2019
+cd p2
+npm install stylelint-config-recommended --save-dev
+webpack --profile --json > stats.json
+npm run build --report
+npm run serve
+arp -all
+arp -a
+ipconfig /all
+ftp
+e:
+cd qxz
+cd vue/2019
+cd portal
+npm install
+pm install ajv@^6.0.0
+npm install ajv@^6.0.0
+npm install @babel/core@^7.0.0
+npm install eslint
+npm install eslint-loader
+npmrun serve
+npm run lint
+ls
+npm run serve
+arp -a
+ipconfig /all
+ftp
+e:
+cd qxz
+cd vue/2019/
+ls
+npm run lint
+npm run lint
+e:
+cd qxz/vue/2019
+cd p2
+ls
+npm run serve
+cd qxz/vue/2019
+npm run serve
+e;
+e:
+cd qxz
+cd vue/2019
+cd p2
+npm install v-distpicker --save
+arp -a
+ipconfig -a
+ipconfig /all
+npm install v-distpicker --save
+cd vue/2019
+cd p2
+e:
+cd qxz
+cd vue
+cd 2019/test
+cd test
+cd new_pc\
+npm i
+npm i ajv-keywords@3.2.0
+npm rebuild node-sass
+npm update
+npm run dev
+cd ../../../
+cd teams\
+cd por
+cd portal_pc
+y
+cd p
+cd ../1
+cd new_portal_pc\
+cd pc_car\
+cd port
+cd portal_pc_bak
+cd 1
+cd portal_pc\
+npm run server
+cd ../../
+cd ../
+ll
+cd 2019
+cd portal
+ls
+npm run serve
+ping djk.hec.cn
+ssh -p22 djkftp01@120.78.202.49\
+ssh -p22 djkftp01@120.78.202.49
+ssh -p22 djkftp01@120.78.202.49
+ping djk.dyg.con.cn
+ping djk.hec.cn
+ssh -p22 root@120.78.202.49
+ssh -p22 djkftp01@120.78.202.49
+ping djk.dyg.con.cn
+ping djk.hec.cn
+ssh -p22 root@120.78.202.49
+vue -v
+npm install -g @vue/cli
+npm install vue-virtual-scroller@1.0.0-rc.2
+npm install -g vue-virtual-scroller@1.0.0-rc.2
+npm install -g ts-node@8.1.0
+npm install -g vue-resize@0.4.5
+e:
+cd qxz
+mkdir vue
+cd vue
+mkdir vuecli
+cd vuecli 
+ls
+ssh -p22 djkftp01@120.78.202.49
+ssh -p29816 root@144.34.155.253
+ssh -p22 djkftp01@120.78.202.49\
+ssh -p22 djkftp01@120.78.202.49
+e:
+cd qxz/vue/p2\
+cd qxz/
+cd vue
+cd p2
+cd 2019/p2
+ls
+cd ../p4
+npm run serve
+cd ../p4
+e:
+cd qxz
+cd vue/2019/p4
+npm run serve
+ssh -p29816 root@144.34.155.253
+cd qxz/
+cd vue
+cd p2
+cd 2019/p2
+cd ../p4
+npm run serve
+cd ../p4
+cd vue/2019/p4
+npm run serve
+ssh -p29816 root@144.34.155.253
+e:
+cd qxz
+cd vue/2019
+cd yyx
+cd n1
+cd news
+vi package.json 
+npm i
+cd src
+tree
+tree -f
+tree --help
+tree \f
+tree -f > src.txt
+ls
+tree /f > src.txt
+cd ../
+npm run dev
+cd vue/2019/p4
+e:
+cd qxz
+cd vue
+cd 2019
+cd p4
+npm
+ npm run serve
+ npm run serve
+node -v
+npm run dev
+cd vue/2019/p4
+cd p4
+npm
+ npm run serve
+e:
+cd qxz
+cd vue
+cd 2019
+cd p3
+cd ../
+cd p2
+npm run serve
+ls
+npm
+ npm run serve
+e:
+cd /qxz
+cd vue
+cd 2019
+cd ls
+mkdir crm_portal
+npm install -g @vue/cli-service-global
+vue create crm_portal
+cd crm
+cd crm_portal\
+ll
+npm i
+cd ../
+ls'
+ls
+vue create crm_portal1
+vue create crm_portal2
+vue -V
+npm
+ npm run serve
+cd /qxz
+cd ls
+mkdir crm_portal
+npm install -g @vue/cli-service-global
+vue create crm_portal
+cd crm
+ll
+ls'
+vue create crm_portal1
+vue create crm_portal2
+vue -V
+e:
+ce qxz
+cd qxz
+cd vue
+cd 2019
+cd crm_portal\
+cd crm_p
+cd crm_p4
+cd ../
+cd pro
+cd p4
+ls
+npm i
+npm i @babel/core@^7.0.0 -g
+npm i ajv@^6.0.0 -g
+npm install
+npm 
+npm run serve
+e:
+cd qxz
+cd vue
+cd 2019
+cls
+ls
+cd p2
+npm run serve
+cd qxz
+cd vue
+cd 2019
+cls
+cd p2
+e:
+cd qxz\vue\2019\crm_portal\
+cd pro/pro
+;s
+l
+cd p4
+ls
+npm run serve
+npm 
+npm run serve
+e:
+cls
+cd p2
+e
+;e:
+cd qxz
+cd vue
+cd 2019
+cd yyx
+ls
+cd dbusershare\
+npm run serve
+npm run dev
+ls
+npm run dev
+ls
+d:
+e:
+D:
+D:
+ls
+v
+2019
+e
+1
+q
+Q
+q
+v
+2019
+f
+f
+q
+f
+v
+2019
+e
+1
+q
+Q
+q
+f
+f
+f
+q
+c:
+ls
+..
+v
+2019
+LL
+ll
+q
+f
+ll
+ls
+v
+ssh -p29816 root@144.34.155.253

@@ -1,0 +1,23 @@
+;= @echo off
+;= rem Call DOSKEY and use this file as the macrofile
+;= %SystemRoot%\system32\doskey /listsize=1000 /macrofile=%0%
+;= rem In batch mode, jump to the end of the file
+;= goto:eof
+;= Add aliases below here
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --show-control-chars -F --color $*
+pwd=cd
+clear=cls
+history=cat "%CMDER_ROOT%\config\.history"
+unalias=alias /d $1
+vi=vim $*
+ll=ls -al
+q=cd /d E:/QXZ
+v=cd /d E:/QXZ/vue
+yyx=cd /d E:/QXZ/vue/2019/yyx
+crm=cd /d E:/QXZ/vue/2019/crm_portal
+2019=cd /d E:/QXZ/vue/2019
+vs="D:/Program Files (x86)/Microsoft VS Code/Code.exe"
+..=cd ..
+cmderr=cd /d "%CMDER_ROOT%"
